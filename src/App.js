@@ -1,11 +1,11 @@
 import React from 'react'
+import Task1 from './Components/Task1'
 
 function App() {
   return (
-    <div>
-      <h1></h1>
-      <h2 style={{textAlign:'center'}}>check second</h2>
-    </div>
+    <>
+    <Task1/>
+    </>
   )
 }
 
