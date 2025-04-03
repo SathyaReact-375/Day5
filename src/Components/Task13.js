@@ -6,7 +6,7 @@ function Task13() {
   return (
     <div style={{textAlign:"center"}}>
         <h1>Task13</h1>
-        <ul style={{listStyleType}}>
+        <ul style={{listStyleType:"none"}}>
                 {numbers.map(num => {
                     if (num % 2 === 0) {
                         return <li>{num}</li>;

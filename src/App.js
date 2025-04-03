@@ -8,6 +8,12 @@ import Task6 from './Components/Task6'
 import Task7 from './Components/Task7'
 import Task8 from './Components/Task8'
 import Task13 from './Components/Task13'
+import Task10 from './Components/Task10'
+import Task11 from './Components/Task11'
+import Task12 from './Components/Task12'
+import Task9 from './Components/Task9'
+import Miniproject1 from './Components/Miniproject1'
+import Miniproject2 from './Components/Miniproject2'
 
 function App() {
   return (
@@ -20,7 +26,13 @@ function App() {
     <Task6/>
     <Task7/>
     <Task8/>
+    <Task9/>
+    <Task10/>
+    <Task11/>
+    <Task12/>
     <Task13/>
+    <Miniproject1/>
+    <Miniproject2/>
     </>
   )
 }
